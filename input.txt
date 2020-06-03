@@ -1,0 +1,3 @@
+/bin/ls -r
+/bin/ls //
+/bin/ps aux

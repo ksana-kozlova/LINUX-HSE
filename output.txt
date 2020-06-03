@@ -1,0 +1,287 @@
+Шаблоны
+Рабочий стол
+Общедоступные
+Музыка
+Изображения
+Загрузки
+Документы
+Видео
+test.txt
+test_file.txt
+snap
+output.txt
+log.txt
+lesson4.c
+lesson4
+lesson3.c
+lesson3
+lesson2_improved.c
+lesson2_improved
+lesson2.c
+lesson2
+input.txt
+fork_improved.c
+fork_improved
+fork.c
+fork
+d_n
+d_i
+deam_new.c
+daemon.c
+daemon[A
+daemon
+daem_new.c
+daem_improv.c
+daem_improv_2.c
+daem_improv
+1
+bin
+boot
+cdrom
+dev
+etc
+home
+initrd.img
+initrd.img.old
+lib
+lib64
+lost+found
+media
+mnt
+opt
+proc
+root
+run
+sbin
+snap
+srv
+swapfile
+sys
+tmp
+usr
+var
+vmlinuz
+vmlinuz.old
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.2 159828  9060 ?        Ss   июн01   0:07 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    июн01   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   июн01   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   июн01   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   июн01   0:00 [kworker/0:0H-kb]
+root         9  0.0  0.0      0     0 ?        I<   июн01   0:00 [mm_percpu_wq]
+root        10  0.0  0.0      0     0 ?        S    июн01   0:01 [ksoftirqd/0]
+root        11  0.0  0.0      0     0 ?        I    июн01   0:04 [rcu_sched]
+root        12  0.0  0.0      0     0 ?        S    июн01   0:00 [migration/0]
+root        13  0.0  0.0      0     0 ?        S    июн01   0:00 [idle_inject/0]
+root        14  0.0  0.0      0     0 ?        S    июн01   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    июн01   0:00 [kdevtmpfs]
+root        16  0.0  0.0      0     0 ?        I<   июн01   0:00 [netns]
+root        17  0.0  0.0      0     0 ?        S    июн01   0:00 [rcu_tasks_kthre]
+root        18  0.0  0.0      0     0 ?        S    июн01   0:00 [kauditd]
+root        19  0.0  0.0      0     0 ?        S    июн01   0:00 [khungtaskd]
+root        20  0.0  0.0      0     0 ?        S    июн01   0:00 [oom_reaper]
+root        21  0.0  0.0      0     0 ?        I<   июн01   0:00 [writeback]
+root        22  0.0  0.0      0     0 ?        S    июн01   0:00 [kcompactd0]
+root        23  0.0  0.0      0     0 ?        SN   июн01   0:00 [ksmd]
+root        24  0.0  0.0      0     0 ?        SN   июн01   0:00 [khugepaged]
+root       116  0.0  0.0      0     0 ?        I<   июн01   0:00 [kintegrityd]
+root       117  0.0  0.0      0     0 ?        I<   июн01   0:00 [kblockd]
+root       118  0.0  0.0      0     0 ?        I<   июн01   0:00 [blkcg_punt_bio]
+root       119  0.0  0.0      0     0 ?        I<   июн01   0:00 [tpm_dev_wq]
+root       120  0.0  0.0      0     0 ?        I<   июн01   0:00 [ata_sff]
+root       121  0.0  0.0      0     0 ?        I<   июн01   0:00 [md]
+root       122  0.0  0.0      0     0 ?        I<   июн01   0:00 [edac-poller]
+root       123  0.0  0.0      0     0 ?        I<   июн01   0:00 [devfreq_wq]
+root       124  0.0  0.0      0     0 ?        S    июн01   0:00 [watchdogd]
+root       129  0.0  0.0      0     0 ?        S    июн01   0:00 [kswapd0]
+root       130  0.0  0.0      0     0 ?        I<   июн01   0:00 [kworker/u3:0]
+root       131  0.0  0.0      0     0 ?        S    июн01   0:00 [ecryptfs-kthrea]
+root       134  0.0  0.0      0     0 ?        I<   июн01   0:00 [kthrotld]
+root       135  0.0  0.0      0     0 ?        I<   июн01   0:00 [acpi_thermal_pm]
+root       136  0.0  0.0      0     0 ?        S    июн01   0:00 [scsi_eh_0]
+root       137  0.0  0.0      0     0 ?        I<   июн01   0:00 [scsi_tmf_0]
+root       138  0.0  0.0      0     0 ?        S    июн01   0:00 [scsi_eh_1]
+root       139  0.0  0.0      0     0 ?        I<   июн01   0:00 [scsi_tmf_1]
+root       141  0.0  0.0      0     0 ?        I<   июн01   0:00 [ipv6_addrconf]
+root       153  0.0  0.0      0     0 ?        I<   июн01   0:00 [kstrp]
+root       172  0.0  0.0      0     0 ?        I<   июн01   0:00 [charger_manager]
+root       173  0.0  0.0      0     0 ?        I<   июн01   0:02 [kworker/0:1H-kb]
+root       211  0.0  0.0      0     0 ?        S    июн01   0:00 [scsi_eh_2]
+root       212  0.0  0.0      0     0 ?        I<   июн01   0:00 [scsi_tmf_2]
+root       233  0.0  0.0      0     0 ?        S    июн01   0:02 [jbd2/sda1-8]
+root       234  0.0  0.0      0     0 ?        I<   июн01   0:00 [ext4-rsv-conver]
+root       270  0.0  0.6 128088 24244 ?        S<s  июн01   0:01 /lib/systemd/systemd-journald
+root       292  0.0  0.1  46340  4608 ?        Ss   июн01   0:00 /lib/systemd/systemd-udevd
+root       308  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop0]
+root       310  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop1]
+root       313  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop2]
+root       314  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop3]
+root       316  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop4]
+root       318  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop5]
+root       321  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop6]
+root       323  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop7]
+root       327  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop8]
+root       336  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop9]
+root       339  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop10]
+root       342  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop11]
+root       343  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop12]
+root       346  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop13]
+root       347  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop14]
+root       349  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop15]
+root       351  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop16]
+root       355  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop17]
+root       356  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop18]
+root       357  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop19]
+root       358  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop20]
+root       359  0.0  0.0      0     0 ?        S<   июн01   0:00 [loop21]
+systemd+   372  0.0  0.1  70884  6088 ?        Ss   июн01   0:02 /lib/systemd/systemd-resolved
+root       463  0.0  0.0      0     0 ?        I<   июн01   0:00 [iprt-VBoxWQueue]
+avahi      469  0.0  0.0  47256  3312 ?        Ss   июн01   0:00 avahi-daemon: running [oksana-VirtualBox.local]
+syslog     472  0.0  0.1 263036  4296 ?        Ssl  июн01   0:00 /usr/sbin/rsyslogd -n
+root       475  0.0  0.3 518116 13108 ?        Ssl  июн01   0:00 /usr/lib/udisks2/udisksd
+root       476  0.0  0.2 434316  9676 ?        Ssl  июн01   0:00 /usr/sbin/ModemManager --filter-policy=strict
+avahi      477  0.0  0.0  47076   344 ?        S    июн01   0:00 avahi-daemon: chroot helper
+root       492  0.0  0.2 309004  9292 ?        Ssl  июн01   0:01 /usr/lib/accountsservice/accounts-daemon
+root       503  0.0  0.0  38424  3172 ?        Ss   июн01   0:00 /usr/sbin/cron -f
+root       510  0.0  0.0   4548   776 ?        Ss   июн01   0:00 /usr/sbin/acpid
+root       514  0.0  0.4 177636 17320 ?        Ssl  июн01   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+message+   519  0.0  0.1  51688  6212 ?        Ss   июн01   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       532  0.0  0.4 580868 19044 ?        Ssl  июн01   0:01 /usr/sbin/NetworkManager --no-daemon
+root       533  0.0  0.1  45228  5336 ?        Ss   июн01   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       588  0.0  0.3 322184 12184 ?        Ssl  июн01   0:01 /usr/lib/policykit-1/polkitd --no-debug
+root       610  0.0  0.4 194340 20044 ?        Ssl  июн01   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root       625  0.0  0.2 308704  8780 ?        Ssl  июн01   0:00 /usr/sbin/gdm3
+root       653  0.0  0.0      0     0 ?        S    июн01   0:02 [irq/18-vmwgfx]
+root       656  0.0  0.0      0     0 ?        I<   июн01   0:00 [ttm_swap]
+whoopsie   666  0.0  0.3 468804 12908 ?        Ssl  июн01   0:00 /usr/bin/whoopsie -f
+kernoops   678  0.0  0.0  56940  2448 ?        Ss   июн01   0:01 /usr/sbin/kerneloops --test
+kernoops   680  0.0  0.0  56940  2436 ?        Ss   июн01   0:01 /usr/sbin/kerneloops
+root       751  0.0  0.0      0     0 ?        I<   июн01   0:00 [cryptd]
+root      1123  0.0  0.2 322812  9192 ?        Ssl  июн01   0:02 /usr/lib/upower/upowerd
+rtkit     1136  0.0  0.0 183504  2920 ?        SNsl июн01   0:00 /usr/lib/rtkit/rtkit-daemon
+root      1201  0.0  0.2 315580  9352 ?        Ssl  июн01   0:00 /usr/lib/x86_64-linux-gnu/boltd
+root      1230  0.0  1.0 531132 40520 ?        Ssl  июн01   0:22 /usr/lib/packagekit/packagekitd
+colord    1357  0.0  0.3 339940 15760 ?        Ssl  июн01   0:00 /usr/lib/colord/colord
+root      1692  0.0  0.6 567772 27124 ?        Ssl  июн01   0:02 /usr/lib/fwupd/fwupd
+root      2417  0.0  0.2 108108  8576 ?        Ss   07:24   0:00 /usr/sbin/cupsd -l
+root      2418  0.0  0.2 303660 10988 ?        Ssl  07:24   0:00 /usr/sbin/cups-browsed
+root      2464  0.0  0.6 679268 25544 ?        Ssl  10:34   0:06 /usr/lib/snapd/snapd
+root      2510  0.0  0.1  70692  6132 ?        Ss   10:34   0:00 /lib/systemd/systemd-logind
+root      2545  0.0  0.2 261916  8736 ?        Sl   10:34   0:00 gdm-session-worker [pam/gdm-launch-environment]
+gdm       2551  0.0  0.2  77052  8136 ?        Ss   10:34   0:00 /lib/systemd/systemd --user
+gdm       2552  0.0  0.0 195904  2584 ?        S    10:34   0:00 (sd-pam)
+gdm       2563  0.0  0.1 197988  5776 tty1     Ssl+ 10:34   0:00 /usr/lib/gdm3/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm       2565  0.0  0.1  50248  4672 ?        Ss   10:34   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm       2567  0.0  0.3 567176 15556 tty1     Sl+  10:34   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm       2573  0.0  5.1 2911284 206268 tty1   Sl+  10:34   0:42 /usr/bin/gnome-shell
+gdm       2580  0.0  0.9 219532 39216 tty1     S+   10:34   0:00 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm       2583  0.0  0.2 365548  8412 ?        Ssl  10:34   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm       2588  0.0  0.0  49928  3736 ?        S    10:34   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm       2590  0.0  0.1 220764  5856 ?        Sl   10:34   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm       2593  0.0  0.2 1415948 12072 ?       Ssl  10:34   0:00 /usr/bin/pulseaudio --daemonize=no
+gdm       2629  0.0  0.2 375620  9804 tty1     Sl   10:34   0:00 ibus-daemon --xim --panel disable
+gdm       2632  0.0  0.2 294848  8748 tty1     Sl   10:34   0:00 /usr/lib/ibus/ibus-dconf
+gdm       2634  0.0  1.2 491424 51084 tty1     Sl   10:34   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm       2637  0.0  0.2 292800  8296 ?        Sl   10:34   0:00 /usr/lib/ibus/ibus-portal
+gdm       2645  0.0  0.1 271928  5008 ?        Ssl  10:34   0:00 /usr/libexec/xdg-permission-store
+gdm       2657  0.0  0.6 503492 24564 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm       2658  0.0  0.2 294872  8764 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm       2660  0.0  0.5 354728 22636 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm       2661  0.0  0.6 667724 24208 tty1     Sl+  10:35   0:08 /usr/lib/gnome-settings-daemon/gsd-color
+gdm       2662  0.0  0.3 393944 13992 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm       2663  0.0  0.1 283972  5176 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm       2665  0.0  0.6 515484 24268 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm       2666  0.0  0.6 802004 25852 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm       2668  0.0  0.1 202228  4540 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm       2669  0.0  0.6 807364 27088 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm       2670  0.0  0.2 267248  8568 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm       2672  0.0  0.1 202248  4728 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm       2673  0.0  0.1 275964  4832 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm       2674  0.0  0.2 321828 10904 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm       2676  0.0  0.2 390944 10216 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm       2677  0.0  0.2 341324 10216 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm       2678  0.0  0.5 439712 23552 tty1     Sl+  10:35   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm       2734  0.0  0.2 219132  8196 tty1     Sl   10:35   0:00 /usr/lib/ibus/ibus-engine-simple
+root      2919  0.0  0.2 415852  9720 ?        Sl   14:01   0:00 gdm-session-worker [pam/gdm-password]
+oksana    2924  0.0  0.2  77092  8212 ?        Ss   14:01   0:01 /lib/systemd/systemd --user
+oksana    2925  0.0  0.0 195904  2588 ?        S    14:01   0:00 (sd-pam)
+oksana    2938  0.0  0.2 288784  8360 ?        Sl   14:01   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+oksana    2942  0.0  0.1 212324  6076 tty2     Ssl+ 14:01   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+oksana    2944  0.4  2.5 439724 103112 tty2    Sl+  14:01   2:34 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+oksana    2949  0.0  0.1  51152  5616 ?        Ss   14:01   0:02 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+oksana    2953  0.0  0.4 717948 16820 tty2     Sl+  14:01   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+oksana    3048  0.0  0.0  11300   320 ?        Ss   14:01   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+oksana    3051  0.0  0.1 366032  7268 ?        Ssl  14:01   0:00 /usr/lib/gvfs/gvfsd
+oksana    3056  0.0  0.1 432020  7948 ?        Sl   14:01   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+oksana    3065  0.0  0.2 367880  8648 ?        Ssl  14:01   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+oksana    3070  0.0  0.1  49928  4220 ?        S    14:01   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+oksana    3073  0.0  0.1 220780  6840 ?        Sl   14:01   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+oksana    3089  2.0  7.7 3029632 311604 tty2   Rl+  14:01  10:46 /usr/bin/gnome-shell
+oksana    3099  0.0  0.3 1696848 13064 ?       Sl   14:01   0:13 /usr/bin/pulseaudio --start --log-target=syslog
+oksana    3108  0.0  0.2 378484 10820 tty2     Sl   14:01   0:27 ibus-daemon --xim --panel disable
+oksana    3112  0.0  0.2 297148  8772 tty2     Sl   14:01   0:00 /usr/lib/ibus/ibus-dconf
+oksana    3114  0.0  0.5 357248 23196 tty2     Sl   14:01   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+oksana    3116  0.0  0.2 294964  8836 ?        Sl   14:01   0:00 /usr/lib/ibus/ibus-portal
+oksana    3124  0.0  0.1 271928  5116 ?        Ssl  14:01   0:00 /usr/libexec/xdg-permission-store
+oksana    3131  0.0  0.5 696792 22368 ?        Sl   14:01   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+oksana    3135  0.0  0.6 981656 26840 ?        Ssl  14:01   0:00 /usr/lib/evolution/evolution-source-registry
+oksana    3142  0.0  0.8 782024 32540 ?        Sl   14:01   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+oksana    3153  0.0  0.2 393688 10208 ?        Sl   14:01   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+oksana    3164  0.0  0.1 188008  5076 ?        Sl   14:01   0:00 /usr/lib/dconf/dconf-service
+oksana    3167  0.0  0.2 320656 11400 ?        Ssl  14:01   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+oksana    3171  0.0  0.1 274268  6024 ?        Ssl  14:01   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+oksana    3175  0.0  0.1 379048  7832 ?        Ssl  14:01   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+oksana    3180  0.0  0.1 276068  6052 ?        Ssl  14:01   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+oksana    3184  0.0  0.1 288856  6896 ?        Ssl  14:01   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+oksana    3189  0.0  0.6 809528 26788 tty2     Sl+  14:01   0:01 /usr/lib/gnome-settings-daemon/gsd-power
+oksana    3192  0.0  0.2 349560 10264 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+oksana    3193  0.0  0.1 423576  6080 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+oksana    3194  0.0  0.1 276092  6004 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+oksana    3197  0.0  0.2 471592 11484 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+oksana    3200  0.0  0.2 393112 10424 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+oksana    3202  0.0  0.2 343492 10348 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+oksana    3206  0.0  0.6 505568 24344 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+oksana    3212  0.0  0.5 441772 23280 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+oksana    3217  0.0  0.2 297040  8688 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+oksana    3221  0.0  0.5 356916 22604 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+oksana    3222  0.0  0.3 476968 15812 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+oksana    3226  0.0  0.2 375164  9124 tty2     Sl+  14:01   0:01 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+oksana    3230  0.0  0.6 669812 24384 tty2     Sl+  14:01   0:05 /usr/lib/gnome-settings-daemon/gsd-color
+oksana    3233  0.0  0.6 877884 25844 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+oksana    3234  0.0  0.2 297048  8660 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+oksana    3235  0.0  0.5 517692 23928 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+oksana    3249  0.0  0.3 509000 12696 tty2     Sl+  14:01   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+oksana    3285  0.0  1.2 771760 50012 tty2     Sl+  14:01   0:02 nautilus-desktop
+oksana    3288  0.0  0.1 271932  6552 tty2     Sl+  14:01   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+oksana    3311  0.0  0.2 384568 10464 ?        Sl   14:01   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+oksana    3326  0.0  1.6 894736 67892 ?        Ssl  14:01   0:00 /usr/lib/evolution/evolution-calendar-factory
+oksana    3335  0.0  1.5 946528 63416 ?        Sl   14:01   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx3326x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/3326/2
+oksana    3345  0.0  0.6 735412 25096 ?        Ssl  14:01   0:00 /usr/lib/evolution/evolution-addressbook-factory
+oksana    3356  0.0  0.6 893348 28016 ?        Sl   14:01   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx3345x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/3345/2
+oksana    3370  0.0  0.2 221296  8696 tty2     Sl   14:01   0:08 /usr/lib/ibus/ibus-engine-simple
+oksana    3392  0.1  1.0 808080 41460 ?        Ssl  14:01   1:02 /usr/lib/gnome-terminal/gnome-terminal-server
+oksana    3401  0.0  0.1  29876  5144 pts/0    Ss+  14:01   0:00 bash
+oksana    3416  0.0  0.8 726028 33676 tty2     Sl+  14:02   0:01 update-notifier
+oksana    3418  0.0  3.1 1084780 128948 tty2   SLl+ 14:02   0:05 /usr/bin/gnome-software --gapplication-service
+oksana    3513  0.0  0.1 204740  6024 ?        Ssl  14:07   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      3974  0.0  0.1  25988  6324 ?        S    14:46   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-enp0s3.pid -lf /var/lib/NetworkManager/dhclient-0a67e77d-5e4b-3602-abb5-e028a1f73656-enp0s3.lease -cf /var/lib/NetworkManager/dhclient-enp0s3.conf enp0s3
+systemd+  4162  0.0  0.0 143988  3280 ?        Ssl  17:56   0:00 /lib/systemd/systemd-timesyncd
+root      4266  0.0  0.0      0     0 ?        I    18:49   0:04 [kworker/0:1-eve]
+oksana    4268  0.0  1.3 973724 54216 ?        Sl   18:49   0:13 /usr/bin/nautilus --gapplication-service
+oksana    4297  0.2  1.8 921508 73680 ?        Sl   18:50   0:34 gedit /home/oksana/test.txt
+oksana    4343  0.0  0.2 384716  9524 ?        Sl   18:58   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.7 /org/gtk/gvfs/exec_spaw/1
+oksana    4379  0.0  0.1 381524  7532 ?        Sl   18:58   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.7 /org/gtk/gvfs/exec_spaw/7
+oksana    4487  6.2 16.4 3534536 662280 tty2   Sl+  19:30  12:02 /usr/lib/firefox/firefox -new-window
+oksana    4527  0.0  3.4 2620456 139160 tty2   Sl+  19:31   0:07 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 212146 -parentBuildID 20200309095159 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 4487 true tab
+oksana    4591  0.0  2.6 2584476 107688 tty2   Sl+  19:31   0:08 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 6360 -prefMapSize 212146 -parentBuildID 20200309095159 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 4487 true tab
+oksana    4641 10.4  6.9 2826412 279064 tty2   Sl+  19:31  20:09 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 7092 -prefMapSize 212146 -parentBuildID 20200309095159 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 4487 true tab
+oksana    4655  0.0  1.9 2564476 79504 tty2    Sl+  19:31   0:02 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 7092 -prefMapSize 212146 -parentBuildID 20200309095159 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 4487 true tab
+oksana    5304  0.0  0.0   6692    92 ?        Ss   20:28   0:00 ./d_n test.txt
+root      5609  0.0  0.0      0     0 ?        I    21:02   0:03 [kworker/0:3-eve]
+root      6093  0.0  0.0      0     0 ?        I    22:22   0:00 [kworker/u2:1-ev]
+oksana    6110 45.4  0.0   6692    92 ?        Rs   22:24   8:35 ./d_n input.txt
+oksana    6127 42.1  0.0   6692    92 ?        Rs   22:26   7:18 ./d_n test.txt
+root      6137  0.0  0.0      0     0 ?        I    22:27   0:00 [kworker/u2:2-ev]
+oksana    6213  0.0  0.1  29684  4856 pts/2    Ss+  22:33   0:00 bash
+oksana    6500  0.0  0.0   6692    92 ?        Ss   22:43   0:00 ./d_n input.txt
+oksana    6504  0.0  0.0  46804  3436 ?        R    22:43   0:00 /bin/ps aux

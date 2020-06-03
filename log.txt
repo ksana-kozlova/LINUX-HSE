@@ -1,0 +1,6 @@
+DAEMON: Start!
+DAEMON: Signal has comed
+DAEMON: Command is executed:/bin/ls
+DAEMON: Command is executed:/bin/ls
+DAEMON: Command is executed:/bin/ps
+DAEMON: Finish!
